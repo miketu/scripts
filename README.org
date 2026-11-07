@@ -14,11 +14,11 @@
 
 * 🔨 Utilities  & 🚀Fun Projects 
 
-🔨 [[pdf_combiner.R]]- joining together pdf files
+ [[pdf_combiner.R]]- joining together pdf files
 
-🔨 [[table_combining.org]] - Joining together tables in Org-mode
+ [[table_combining.org]] - Joining together tables in Org-mode
 
-🚀 [[bouncing-ball.R]]  - R simulation of bouncing ball
+ [[bouncing-ball.R]]  - R simulation of bouncing ball
 
-🚀 [[stock_monte_carlo.R]] - R simulation of stock returns from historical values
+ [[stock_monte_carlo.R]] - R simulation of stock returns from historical values
 
