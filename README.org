@@ -20,7 +20,5 @@
 
 🚀 [[bouncing-ball.R]]  - R simulation of bouncing ball
 
-🚀 [[bouncing ball.lua]]  - Lua simulation of bouncing ball
-
 🚀 [[stock_monte_carlo.R]] - R simulation of stock returns from historical values
 
